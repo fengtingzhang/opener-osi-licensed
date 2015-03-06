@@ -1,7 +1,7 @@
 {
-    "name": "opener",
+    "name": "opener-osi-licensed",
     "description": "Opens stuff, like webpages and files and executables, cross-platform",
-    "version": "1.4.1",
+    "version": "1.4.0",
     "author": "Domenic Denicola <domenic@domenicdenicola.com> (http://domenic.me/)",
     "license": "MIT",
     "repository": {
